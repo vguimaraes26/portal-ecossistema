@@ -1,0 +1,54 @@
+{
+  "templates": [
+    {
+      "id": "tpl-001",
+      "segment": "investimento",
+      "name": "Análise de Mercado",
+      "description": "Template para análise de oportunidades de investimento",
+      "content": "💰 {headline}\n\n🎯 Segmento: {segment}\n\n{body}\n\n📊 Palavras-chave: {keywords}\n\n✍️ {author} | Tom: {tone}",
+      "example": "💰 Selic em alta: impacto para sua carteira\n\n🎯 Segmento: Investimento\n\nA recente decisão do Banco Central afeta diretamente estratégias de investimento...",
+      "placeholders": ["headline", "segment", "body", "keywords", "author", "tone"]
+    },
+    {
+      "id": "tpl-002",
+      "segment": "contabilidade",
+      "name": "Conformidade Fiscal",
+      "description": "Template para normas, compliance e processos contábeis",
+      "content": "📊 CONFORMIDADE: {headline}\n\n🔍 Segmento: {segment}\n\n⚖️ Obrigatoriedade: {body}\n\n📋 Checklist: {keywords}\n\n👤 {author} | Tons: {tone}",
+      "example": "📊 CONFORMIDADE: Nova resolução do CFC impacta empresas\n\n🔍 Segmento: Contabilidade\n\n⚖️ Obrigatoriedade: A partir de 2026...",
+      "placeholders": ["headline", "segment", "body", "keywords", "author", "tone"]
+    },
+    {
+      "id": "tpl-003",
+      "segment": "gestao",
+      "name": "Gestão Executiva",
+      "description": "Template para tendências e estratégias de negócios",
+      "content": "🏢 GESTÃO: {headline}\n\n📈 Impacto: {body}\n\n🎯 Estratégia: {keywords}\n\nSegmento: {segment} | Autor: {author}\n\n💡 Tom: {tone}",
+      "example": "🏢 GESTÃO: Como otimizar recursos em 2026\n\n📈 Impacto: Empresas que implementam...",
+      "placeholders": ["headline", "body", "keywords", "segment", "author", "tone"]
+    },
+    {
+      "id": "tpl-004",
+      "segment": "reforma_tributaria",
+      "name": "Reforma Tributária",
+      "description": "Template para mudanças na legislação tributária",
+      "content": "⚖️ REFORMA TRIBUTÁRIA: {headline}\n\n📌 Contexto: {body}\n\n⚡ Impacto: {keywords}\n\nSegmento: {segment} | Especialista: {author}\n\n🔔 {tone}",
+      "example": "⚖️ REFORMA TRIBUTÁRIA: Imposto seletivo entra em vigor\n\n📌 Contexto: Novo mecanismo...",
+      "placeholders": ["headline", "body", "keywords", "segment", "author", "tone"]
+    },
+    {
+      "id": "tpl-005",
+      "segment": "ia_otimizacao",
+      "name": "IA & Transformação Digital",
+      "description": "Template para inovações em automação e IA",
+      "content": "🤖 IA & OTIMIZAÇÃO: {headline}\n\n💻 Tecnologia: {body}\n\n🚀 Aplicações: {keywords}\n\nCampo: {segment} | Especialista: {author}\n\n⚡ Abordagem: {tone}",
+      "example": "🤖 IA & OTIMIZAÇÃO: ChatGPT para otimizar processos contábeis\n\n💻 Tecnologia: Integração com sistemas existentes...",
+      "placeholders": ["headline", "body", "keywords", "segment", "author", "tone"]
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-04-04T20:39:37.000Z",
+    "lastUpdate": "2026-04-04T20:39:37.000Z",
+    "totalTemplates": 5
+  }
+}
